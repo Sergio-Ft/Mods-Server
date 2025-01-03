@@ -1,0 +1,15 @@
+
+#General settings
+[General]
+	#Override vanilla creeper spawns with the Camo Creepers [default: true]
+	overrideCreeperSpawns = true
+
+#Camo settings
+[Camo]
+	#Allow Camo Creepers to camouflage in the Nether [default: true]
+	netherCamo = true
+	#Allow Camo Creepers to camouflage in the End [default: true]
+	endCamo = true
+	#Allow Camo Creepers to camouflage in caves [default: true]
+	caveCamo = true
+

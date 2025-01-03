@@ -1,0 +1,448 @@
+
+[SwordConfig]
+	#Sword Config
+	#Fire Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	FIRE_SWORD_DMG = 1
+	#Fire Sword Durability
+	#Range: 100 ~ 10000
+	FIRE_SWORD_DUR = 1000
+	#Fire Sword Set Fire on Hit (Seconds)
+	#Range: 1 ~ 1000
+	FIRE_SWORD_HIT_SEC = 3
+	#Fire Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	FIRE_SWORD_USE_COST = 5
+	#Fire Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	FIRE_SWORD_COOLDOWN = 20
+	#Water Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	WATER_SWORD_DMG = 2
+	#Water Sword Durability
+	#Range: 100 ~ 10000
+	WATER_SWORD_DUR = 1000
+	#Water Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	WATER_SWORD_USE_COST = 5
+	#Water Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	WATER_SWORD_COOLDOWN = 20
+	#Earth Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	EARTH_SWORD_DMG = 2
+	#Earth Sword Durability
+	#Range: 100 ~ 10000
+	EARTH_SWORD_DUR = 1000
+	#Earth Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	EARTH_SWORD_USE_COST = 5
+	#Earth Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	EARTH_SWORD_COOLDOWN = 20
+	#Wind Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	WIND_SWORD_DMG = 2
+	#Wind Sword Durability
+	#Range: 100 ~ 10000
+	WIND_SWORD_DUR = 1000
+	#Wind Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	WIND_SWORD_USE_COST = 5
+	#Wind Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	WIND_SWORD_COOLDOWN = 80
+	#Thunder Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	THUNDER_SWORD_DMG = 2
+	#Thunder Sword Durability
+	#Range: 100 ~ 10000
+	THUNDER_SWORD_DUR = 1000
+	#Thunder Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	THUNDER_SWORD_USE_COST = 5
+	#Thunder Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	THUNDER_SWORD_COOLDOWN = 20
+	#Dark Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	DARK_SWORD_DMG = 1
+	#Dark Sword Durability
+	#Range: 100 ~ 10000
+	DARK_SWORD_DUR = 1000
+	#Dark Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	DARK_SWORD_USE_COST = 5
+	#Dark Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	DARK_SWORD_COOLDOWN = 180
+	#Dark Sword blindness duration when hit (In ticks)
+	#Range: 1 ~ 1000
+	DARK_SWORD_BLIND_HIT_TK = 40
+	#Dark Sword wither duration when hit (In ticks)
+	#Range: 1 ~ 1000
+	DARK_SWORD_WITHER_HIT_TK = 30
+	#Light Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	LIGHT_SWORD_DMG = 2
+	#Light Sword Durability
+	#Range: 100 ~ 10000
+	LIGHT_SWORD_DUR = 1000
+	#Light Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	LIGHT_SWORD_USE_COST = 5
+	#Light Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	LIGHT_SWORD_COOLDOWN = 50
+	#Light Sword blindness duration when hit (In ticks)
+	#Range: 1 ~ 1000
+	LIGHT_SWORD_BLIND_HIT_TK = 20
+	#Light Sword wither duration when hit (In ticks)
+	#Range: 1 ~ 1000
+	LIGHT_SWORD_WEAKNESS_HIT_TK = 100
+	#Ender Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	ENDER_SWORD_DMG = 2
+	#Ender Sword Durability
+	#Range: 100 ~ 10000
+	ENDER_SWORD_DUR = 1000
+	#Ender Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	ENDER_SWORD_USE_COST = 5
+	#Ender Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	ENDER_SWORD_COOLDOWN = 20
+	#Beast Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	BEAST_SWORD_DMG = 2
+	#Beast Sword Durability
+	#Range: 100 ~ 10000
+	BEAST_SWORD_DUR = 1000
+	#Beast Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	BEAST_SWORD_USE_COST = 50
+	#Beast Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	BEAST_SWORD_COOLDOWN = 50
+	#Fire Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	COMBUSTION_SWORD_DMG = 3
+	#Fire Sword Durability
+	#Range: 100 ~ 10000
+	COMBUSTION_SWORD_DUR = 1500
+	#Fire Sword Set Fire on Hit (Seconds)
+	#Range: 1 ~ 1000
+	COMBUSTION_SWORD_HIT_SEC = 6
+	#Fire Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	COMBUSTION_SWORD_USE_COST = 5
+	#Fire Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	COMBUSTION_SWORD_COOLDOWN = 20
+	#Peaceful Nature Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	PEACEFUL_NATURE_DMG = 4
+	#Peaceful Nature Sword Durability
+	#Range: 100 ~ 10000
+	PEACEFUL_NATURE_DUR = 2000
+	#Peaceful Nature Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	PEACEFUL_NATURE_USE_COST = 5
+	#Peaceful Nature Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	PEACEFUL_NATURE_COOLDOWN = 30
+	#Peaceful Nature Sword Set Slowness on Hit (Ticks)
+	#Range: 1 ~ 1000
+	PEACEFUL_NATURE_HIT_TK = 60
+	#Wild Nature Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	WILD_NATURE_SWORD_DMG = 3
+	#Wild Nature Sword Durability
+	#Range: 100 ~ 10000
+	WILD_NATURE_SWORD_DUR = 1500
+	#Wild Nature Sword Set Poison (Ticks)
+	#Range: 1 ~ 1000
+	WILD_NATURE_SWORD_HIT_TK = 50
+	#Wild Nature Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	WILD_NATURE_SWORD_USE_COST = 5
+	#Wild Nature Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	WILD_NATURE_SWORD_COOLDOWN = 20
+	#Meteor Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	METEOR_SWORD_DMG = 5
+	#Meteor Sword Durability
+	#Range: 100 ~ 10000
+	METEOR_SWORD_DUR = 2500
+	#Meteor Sword Set Fire on Hit (Seconds)
+	#Range: 1 ~ 1000
+	METEOR_SWORD_HIT_SEC = 6
+	#Meteor Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	METEOR_SWORD_USE_COST = 5
+	#Meteor Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	METEOR_SWORD_COOLDOWN = 20
+	#Ice Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	ICE_SWORD_DMG = 5
+	#Ice Sword Durability
+	#Range: 100 ~ 10000
+	ICE_SWORD_DUR = 1500
+	#Ice Sword Set  (Seconds)
+	#Range: 1 ~ 1000
+	ICE_SWORD_HIT_TK = 60
+	#Ice Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	ICE_SWORD_USE_COST = 5
+	#Ice Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	ICE_SWORD_COOLDOWN = 250
+	#Wind Impulse Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	WIND_IMPULSE_SWORD_DMG = 5
+	#Wind Impulse Sword Durability
+	#Range: 100 ~ 10000
+	WIND_IMPULSE_SWORD_DUR = 1500
+	#Wind Impulse Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	WIND_IMPULSE_SWORD_USE_COST = 5
+	#Wind Impulse Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	WIND_IMPULSE_SWORD_COOLDOWN = 20
+	#Dark Nether Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	DARK_NETHER_SWORD_DMG = 3
+	#Dark Nether Sword Durability
+	#Range: 100 ~ 10000
+	DARK_NETHER_SWORD_DUR = 1500
+	#Dark Nether Sword Set Wither on Hit (Ticks)
+	#Range: 1 ~ 1000
+	DARK_NETHER_SWORD_HIT_TK = 240
+	#Dark Nether Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	DARK_NETHER_SWORD_USE_COST = 5
+	#Dark Nether Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	DARK_NETHER_SWORD_COOLDOWN = 20
+	#Light Nether Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	LIGHT_NETHER_SWORD_DMG = 3
+	#Light Nether Sword Durability
+	#Range: 100 ~ 10000
+	LIGHT_NETHER_SWORD_DUR = 1500
+	#Light Nether Sword Set Blindness on Hit (Ticks)
+	#Range: 1 ~ 1000
+	LIGHT_NETHER_SWORD_BLINDNESS_HIT_TK = 60
+	#Light Nether Sword Set Weakness on Hit (Ticks)
+	#Range: 1 ~ 1000
+	LIGHT_NETHER_SWORD_WEAKNESS_HIT_TK = 180
+	#Light Nether Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	LIGHT_NETHER_SWORD_USE_COST = 5
+	#Light Nether Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	LIGHT_NETHER_SWORD_COOLDOWN = 800
+	#Ender Portal Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	ENDER_PORTAL_SWORD_DMG = 5
+	#Ender Portal Sword Durability
+	#Range: 100 ~ 10000
+	ENDER_PORTAL_SWORD_DUR = 1500
+	#Ender Portal Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	ENDER_PORTAL_SWORD_USE_COST = 5
+	#Ender Portal Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	ENDER_PORTAL_SWORD_COOLDOWN = 100
+	#Ender Portal Sword Set Nausea on Hit (Ticks)
+	#Range: 1 ~ 1000
+	ENDER_PORTAL_SWORD_HIT_TK = 60
+	#Golem Sword Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	GOLEM_SWORD_DMG = 5
+	#Golem Sword Sword Durability
+	#Range: 100 ~ 10000
+	GOLEM_SWORD_DUR = 1500
+	#Golem Sword Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	GOLEM_SWORD_USE_COST = 50
+	#Golem Sword Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	GOLEM_SWORD_COOLDOWN = 100
+	#Thunder Shock Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	THUNDER_SHOCK_SWORD_DMG = 5
+	#Thunder Shock Sword Durability
+	#Range: 100 ~ 10000
+	THUNDER_SHOCK_SWORD_DUR = 1500
+	#Thunder Shock Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	THUNDER_SHOCK_SWORD_USE_COST = 5
+	#Thunder Shock Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	THUNDER_SHOCK_SWORD_COOLDOWN = 30
+	#ThunderStorm Sword Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	THUNDERSTORM_SWORD_DMG = 6
+	#ThunderStorm Sword Sword Durability
+	#Range: 100 ~ 10000
+	THUNDERSTORM_SWORD_DUR = 2500
+	#ThunderStorm Sword Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	THUNDERSTORM_SWORD_USE_COST = 5
+	#ThunderStorm Sword Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	THUNDERSTORM_SWORD_COOLDOWN = 20
+	#Ender Fire Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	ENDER_FIRE_DMG = 4
+	#Ender Fire Durability
+	#Range: 100 ~ 10000
+	ENDER_FIRE_DUR = 2000
+	#Ender Fire Set Fire on Hit (Seconds)
+	#Range: 1 ~ 1000
+	ENDER_FIRE_HIT_SEC = 3
+	#Ender Fire Right Click durability Cost
+	#Range: 1 ~ 1000
+	ENDER_FIRE_USE_COST = 5
+	#Ender Fire Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	ENDER_FIRE_COOLDOWN = 20
+	#Ender Wind Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	ENDER_WIND_DMG = 5
+	#Ender Wind Sword Durability
+	#Range: 100 ~ 10000
+	ENDER_WIND_DUR = 2000
+	#Ender Wind Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	ENDER_WIND_USE_COST = 5
+	#Ender Wind Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	ENDER_WIND_COOLDOWN = 20
+	#Ender Thunder Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	ENDER_THUNDER_DMG = 5
+	#Ender Thunder Sword Durability
+	#Range: 100 ~ 10000
+	ENDER_THUNDER_DUR = 2000
+	#Ender Thunder Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	ENDER_THUNDER_USE_COST = 5
+	#Ender Thunder Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	ENDER_THUNDER_COOLDOWN = 20
+	#Time Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	TIME_SWORD_DMG = 3
+	#Time Sword Durability
+	#Range: 100 ~ 10000
+	TIME_SWORD_DUR = 2000
+	#Time Sword Set Blindness on Hit (Ticks)
+	#Range: 1 ~ 1000
+	TIME_SWORD_BLINDNESS_HIT_TK = 120
+	#Time Sword Set Weakness on Hit (Ticks)
+	#Range: 1 ~ 1000
+	TIME_SWORD_WEAKNESS_HIT_TK = 120
+	#Time Sword Set Wither on Hit (Ticks)
+	#Range: 1 ~ 1000
+	TIME_SWORD_WITHER_HIT_TK = 60
+	#Time Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	TIME_SWORD_USE_COST = 50
+	#Time Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	TIME_SWORD_COOLDOWN = 480
+	#Steam Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	STEAM_SWORD_DMG = 4
+	#Steam Sword Durability
+	#Range: 100 ~ 10000
+	STEAM_SWORD_DUR = 2000
+	#Steam Sword Set Fire on Hit (Seconds)
+	#Range: 1 ~ 1000
+	STEAM_SWORD_HIT_SEC = 3
+	#Steam Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	STEAM_SWORD_USE_COST = 5
+	#Steam Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	STEAM_SWORD_COOLDOWN = 30
+	#Meteoric Thunderstorm Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	METEORIC_THUNDERSTORM_DMG = 7
+	#Meteoric Thunderstorm Durability
+	#Range: 100 ~ 10000
+	METEORIC_THUNDERSTORM_DUR = 2000
+	#Meteoric Thunderstorm Set Fire on Hit (Seconds)
+	#Range: 1 ~ 1000
+	METEORIC_THUNDERSTORM_HIT_SEC = 6
+	#Meteoric Thunderstorm Right Click durability Cost
+	#Range: 1 ~ 1000
+	METEORIC_THUNDERSTORM_USE_COST = 5
+	#Meteoric Thunderstorm Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	METEORIC_THUNDERSTORM_COOLDOWN = 20
+	#Tri Ender Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	TRI_ENDER_DMG = 6
+	#Tri Ender Durability
+	#Range: 100 ~ 10000
+	TRI_ENDER_DUR = 2500
+	#Tri Ender Set Fire on Hit (Seconds)
+	#Range: 1 ~ 1000
+	TRI_ENDER_HIT_SEC = 6
+	#Tri Ender Right Click durability Cost
+	#Range: 1 ~ 1000
+	TRI_ENDER_USE_COST = 5
+	#Tri Ender Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	TRI_ENDER_COOLDOWN = 20
+	#Atlantis Sword  Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	ATLANTIS_SWORD_DMG = 4
+	#Atlantis Sword Durability
+	#Range: 100 ~ 10000
+	ATLANTIS_SWORD_DUR = 2000
+	#Atlantis Sword Cooldown
+	#Range: 1 ~ 10000
+	ATLANTIS_SWORD_COOLDOWN = 480
+	#Atlantis Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	ATLANTIS_SWORD_USE_COST = 50
+	#Cyan Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	CYAN_SWORD_DMG = 20
+	#Cyan Sword Durability
+	#Range: 100 ~ 10000
+	CYAN_SWORD_DUR = 5000
+	#Wind Boom Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	WIND_BOOM_DMG = 6
+	#Wind Boom  Sword Durability
+	#Range: 100 ~ 10000
+	WIND_BOOM_DUR = 2500
+	#Wind Boom  Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	WIND_BOOM_USE_COST = 5
+	#Wind Boom  Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	WIND_BOOM_COOLDOWN = 30
+	#Wind Blast Sword Damage, to set desired final damage do the sum: 1 (Base MC damage)+4 (Base Sword damage)+ DesiredValue
+	#Range: 1 ~ 1000
+	WIND_BLAST_DMG = 6
+	#Wind Blast  Sword Durability
+	#Range: 100 ~ 10000
+	WIND_BLAST_DUR = 2500
+	#Wind Blast  Sword Right Click durability Cost
+	#Range: 1 ~ 1000
+	WIND_BLAST_USE_COST = 5
+	#Wind Blast  Sword Right Click Cooldown (In ticks)
+	#Range: 1 ~ 1000
+	WIND_BLAST_COOLDOWN = 30
+	#This value indicates how much durability a sword loses when an entity is hit
+	#Range: 1 ~ 1000
+	ALL_SWORDS_HIT_COST = 1
+

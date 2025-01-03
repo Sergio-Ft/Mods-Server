@@ -1,0 +1,13 @@
+{
+  "version": 7,
+  "BeastEssence": true,
+  "DarkEssence": true,
+  "EarthEssence": true,
+  "EnderEssence": true,
+  "FireEssence": true,
+  "LightEssence": true,
+  "MixedEssence": true,
+  "ThunderEssence": true,
+  "WaterEssence": true,
+  "WindEssence": true
+}

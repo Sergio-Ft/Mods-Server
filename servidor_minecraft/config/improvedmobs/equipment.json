@@ -1,0 +1,1016 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "advancednetherite:netherite_diamond_axe": [
+      5581,
+      10.660509
+    ],
+    "advancednetherite:netherite_diamond_sword": [
+      5597,
+      10.626996
+    ],
+    "advancednetherite:netherite_emerald_axe": [
+      6341,
+      9.071943
+    ],
+    "advancednetherite:netherite_emerald_sword": [
+      6388,
+      8.973911
+    ],
+    "advancednetherite:netherite_gold_axe": [
+      6921,
+      7.8634324
+    ],
+    "advancednetherite:netherite_gold_sword": [
+      6999,
+      7.701056
+    ],
+    "advancednetherite:netherite_iron_axe": [
+      7017,
+      7.663587
+    ],
+    "advancednetherite:netherite_iron_sword": [
+      7087,
+      7.517878
+    ],
+    "aquamirae:coral_lance": [
+      8445,
+      4.662123
+    ],
+    "aquamirae:dagger_of_greed": [
+      10886,
+      0.019699998
+    ],
+    "aquamirae:divider": [
+      7253,
+      7.172319
+    ],
+    "aquamirae:fin_cutter": [
+      9318,
+      2.0735214
+    ],
+    "aquamirae:poisoned_blade": [
+      10189,
+      0.94598794
+    ],
+    "aquamirae:remnants_saber": [
+      10869,
+      0.021399999
+    ],
+    "aquamirae:sweet_lance": [
+      8445,
+      4.662123
+    ],
+    "aquamirae:terrible_sword": [
+      9743,
+      1.5193686
+    ],
+    "aquamirae:whisper_of_the_abyss": [
+      8445,
+      4.662123
+    ],
+    "cardinal_sins:daggerofgreed": [
+      6176,
+      9.416279
+    ],
+    "cardinal_sins:dragongreatsword": [
+      6984,
+      7.7322817
+    ],
+    "cardinal_sins:greataxeofgluttony": [
+      4443,
+      13.0523
+    ],
+    "cardinal_sins:greatsword": [
+      6157,
+      9.455949
+    ],
+    "cardinal_sins:greatswordofwrath": [
+      4782,
+      12.33812
+    ],
+    "cardinal_sins:halberdofpride": [
+      3871,
+      14.260522
+    ],
+    "cardinal_sins:holydemonicsword": [
+      4047,
+      13.888343
+    ],
+    "cardinal_sins:ironaxe": [
+      7531,
+      6.59319
+    ],
+    "cardinal_sins:irondagger": [
+      7989,
+      5.6348557
+    ],
+    "cardinal_sins:scythe": [
+      7028,
+      7.640691
+    ],
+    "cardinal_sins:scytheofsloth": [
+      5293,
+      11.264288
+    ],
+    "cardinal_sins:sickleofenvy": [
+      6587,
+      8.559058
+    ],
+    "cardinal_sins:spear": [
+      7956,
+      5.704249
+    ],
+    "cardinal_sins:spearoflust": [
+      6126,
+      9.520681
+    ],
+    "cardinal_sins:spinalsword": [
+      6603,
+      8.525718
+    ],
+    "cardinal_sins:stone_greatsword": [
+      7857,
+      5.912006
+    ],
+    "cardinal_sins:straightsword": [
+      7938,
+      5.7420673
+    ],
+    "cwsr:atlantis_sword": [
+      7531,
+      6.59319
+    ],
+    "cwsr:beast_sword": [
+      9293,
+      2.1063945
+    ],
+    "cwsr:combustion_sword": [
+      8414,
+      4.7295723
+    ],
+    "cwsr:cyan_sword": [
+      1989,
+      18.262217
+    ],
+    "cwsr:dark_nether": [
+      8414,
+      4.7295723
+    ],
+    "cwsr:dark_sword": [
+      9318,
+      2.0735214
+    ],
+    "cwsr:earth_sword": [
+      9293,
+      2.1063945
+    ],
+    "cwsr:ender_fire": [
+      7531,
+      6.59319
+    ],
+    "cwsr:ender_portal": [
+      8344,
+      4.8808722
+    ],
+    "cwsr:ender_sword": [
+      9293,
+      2.1063945
+    ],
+    "cwsr:ender_thunder": [
+      7494,
+      6.670325
+    ],
+    "cwsr:ender_wind": [
+      7494,
+      6.670325
+    ],
+    "cwsr:fire_sword": [
+      9318,
+      2.0735214
+    ],
+    "cwsr:golem_sword": [
+      8344,
+      4.8808722
+    ],
+    "cwsr:ice_sword": [
+      8344,
+      4.8808722
+    ],
+    "cwsr:light_nether": [
+      8414,
+      4.7295723
+    ],
+    "cwsr:light_sword": [
+      9293,
+      2.1063945
+    ],
+    "cwsr:meteor_sword": [
+      6644,
+      8.440292
+    ],
+    "cwsr:meteoric_thunderstorm": [
+      7447,
+      6.768275
+    ],
+    "cwsr:peaceful_nature": [
+      7531,
+      6.59319
+    ],
+    "cwsr:steam_sword": [
+      7531,
+      6.59319
+    ],
+    "cwsr:thunder_shock": [
+      8344,
+      4.8808722
+    ],
+    "cwsr:thunder_sword": [
+      9293,
+      2.1063945
+    ],
+    "cwsr:thunderstorm_sword": [
+      6603,
+      8.525718
+    ],
+    "cwsr:time_sword": [
+      7564,
+      6.5243726
+    ],
+    "cwsr:tri_ender": [
+      6603,
+      8.525718
+    ],
+    "cwsr:water_sword": [
+      9293,
+      2.1063945
+    ],
+    "cwsr:wild_nature": [
+      8414,
+      4.7295723
+    ],
+    "cwsr:wind_blast": [
+      6603,
+      8.525718
+    ],
+    "cwsr:wind_boom": [
+      6603,
+      8.525718
+    ],
+    "cwsr:wind_impulse": [
+      8344,
+      4.8808722
+    ],
+    "cwsr:wind_sword": [
+      9293,
+      2.1063945
+    ],
+    "deep_dark_regrowth:plasma_axe": [
+      11056,
+      0.0026999998
+    ],
+    "deeperdarker:warden_axe": [
+      6571,
+      8.592401
+    ],
+    "deeperdarker:warden_sword": [
+      6649,
+      8.429875
+    ],
+    "dungeonsweaponry:backstabber": [
+      9773,
+      1.4805887
+    ],
+    "dungeonsweaponry:bonebow": [
+      7283,
+      7.109857
+    ],
+    "dungeonsweaponry:chill_gale_knife": [
+      5948,
+      9.892573
+    ],
+    "dungeonsweaponry:claymore": [
+      10568,
+      0.37663084
+    ],
+    "dungeonsweaponry:cursed_axe": [
+      5848,
+      10.101662
+    ],
+    "dungeonsweaponry:cutlass": [
+      10593,
+      0.049
+    ],
+    "dungeonsweaponry:dagger": [
+      10604,
+      0.0479
+    ],
+    "dungeonsweaponry:dancers_sword": [
+      5918,
+      9.955287
+    ],
+    "dungeonsweaponry:dark_katana": [
+      5918,
+      9.955287
+    ],
+    "dungeonsweaponry:double_axe": [
+      9673,
+      1.6100246
+    ],
+    "dungeonsweaponry:fangs_of_frost": [
+      5906,
+      9.980376
+    ],
+    "dungeonsweaponry:firebrand": [
+      5879,
+      10.036831
+    ],
+    "dungeonsweaponry:frost_scythe": [
+      5893,
+      10.007556
+    ],
+    "dungeonsweaponry:frost_slayer": [
+      5864,
+      10.0682
+    ],
+    "dungeonsweaponry:glaive": [
+      10568,
+      0.37663084
+    ],
+    "dungeonsweaponry:great_axeblade": [
+      5831,
+      10.137218
+    ],
+    "dungeonsweaponry:guardian_bow": [
+      7283,
+      7.109857
+    ],
+    "dungeonsweaponry:hammer_of_gravity": [
+      5864,
+      10.0682
+    ],
+    "dungeonsweaponry:heartstealer": [
+      5848,
+      10.101662
+    ],
+    "dungeonsweaponry:highland_axe": [
+      5864,
+      10.0682
+    ],
+    "dungeonsweaponry:longbow": [
+      8515,
+      4.508568
+    ],
+    "dungeonsweaponry:nameless_blade": [
+      5956,
+      9.875852
+    ],
+    "dungeonsweaponry:power_bow": [
+      8515,
+      4.508568
+    ],
+    "dungeonsweaponry:red_snake": [
+      7283,
+      7.109857
+    ],
+    "dungeonsweaponry:resolute_tempest_knife": [
+      5948,
+      9.892573
+    ],
+    "dungeonsweaponry:sabrewing": [
+      7283,
+      7.109857
+    ],
+    "dungeonsweaponry:stormlander": [
+      5864,
+      10.0682
+    ],
+    "dungeonsweaponry:suns_grace": [
+      5918,
+      9.955287
+    ],
+    "dungeonsweaponry:the_green_menace": [
+      7283,
+      7.109857
+    ],
+    "dungeonsweaponry:trickbow": [
+      8515,
+      4.508568
+    ],
+    "dungeonsweaponry:venom_glaive": [
+      5879,
+      10.036831
+    ],
+    "minecraft:bow": [
+      8515,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      8809,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      8278,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      8340,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      9483,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      10939,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      11002,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      10506,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      10593,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      9583,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      7442,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      7512,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      10533,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      9583,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      10709,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      10817,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      9383,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      8583,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      10893,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      10956,
+      0.0127
+    ],
+    "undead_revamp2:bonedagger": [
+      7656,
+      6.3323894
+    ],
+    "undead_revamp2:bostroxsword": [
+      8519,
+      4.499734
+    ],
+    "undead_revamp2:chainsword": [
+      6,
+      22.517443
+    ],
+    "undead_revamp2:toothmace": [
+      7731,
+      6.1757073
+    ]
+  },
+  "OFFHAND": {
+    "bygonenether:gilded_netherite_shield": [
+      275,
+      7.0557194
+    ],
+    "minecraft:ender_pearl": [
+      2949,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      2921,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      2549,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      2627,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "advancednetherite:netherite_diamond_boots": [
+      150,
+      6.060683
+    ],
+    "advancednetherite:netherite_emerald_boots": [
+      585,
+      5.1441197
+    ],
+    "advancednetherite:netherite_gold_boots": [
+      574,
+      5.167534
+    ],
+    "advancednetherite:netherite_iron_boots": [
+      1027,
+      4.175677
+    ],
+    "aquamirae:abyssal_boots": [
+      2002,
+      1.6554433
+    ],
+    "aquamirae:terrible_boots": [
+      2056,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_boots": [
+      1394,
+      3.1174598
+    ],
+    "cardinal_sins:darksteelarmor_boots": [
+      1035,
+      4.1572337
+    ],
+    "cardinal_sins:robed_armor_boots": [
+      2594,
+      0.8932308
+    ],
+    "cold_sweat:goat_fur_boots": [
+      2726,
+      0.7212403
+    ],
+    "cold_sweat:hoglin_hooves": [
+      2199,
+      1.4005771
+    ],
+    "create:copper_diving_boots": [
+      2873,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      1812,
+      1.9030677
+    ],
+    "deep_dark_regrowth:ancient_boots": [
+      487,
+      5.352136
+    ],
+    "deep_dark_regrowth:corruption_boots": [
+      1558,
+      2.236861
+    ],
+    "deep_dark_regrowth:phantom_armor_boots": [
+      1612,
+      2.1656408
+    ],
+    "deep_dark_regrowth:phantom_armor_charge_boots": [
+      1612,
+      2.1656408
+    ],
+    "deep_dark_regrowth:phantom_armor_invisible_boots": [
+      1612,
+      2.1656408
+    ],
+    "deeperdarker:warden_boots": [
+      606,
+      5.0993676
+    ],
+    "minecraft:chainmail_boots": [
+      2855,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      1939,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      2921,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      2607,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      3203,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      1812,
+      1.9030677
+    ],
+    "undead_revamp2:bostroxset_boots": [
+      61,
+      6.246758
+    ],
+    "undead_revamp2:primodialarmour_boots": [
+      1570,
+      2.2210226
+    ]
+  },
+  "LEGS": {
+    "advancednetherite:netherite_diamond_leggings": [
+      61,
+      6.060683
+    ],
+    "advancednetherite:netherite_emerald_leggings": [
+      496,
+      5.1441197
+    ],
+    "advancednetherite:netherite_gold_leggings": [
+      485,
+      5.167534
+    ],
+    "advancednetherite:netherite_iron_leggings": [
+      938,
+      4.175677
+    ],
+    "aquamirae:abyssal_leggings": [
+      1913,
+      1.6554433
+    ],
+    "aquamirae:terrible_leggings": [
+      1967,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_leggings": [
+      1305,
+      3.1174598
+    ],
+    "cardinal_sins:darksteelarmor_leggings": [
+      946,
+      4.1572337
+    ],
+    "cardinal_sins:robed_armor_leggings": [
+      2505,
+      0.8932308
+    ],
+    "cold_sweat:goat_fur_pants": [
+      2637,
+      0.7212403
+    ],
+    "cold_sweat:hoglin_trousers": [
+      2110,
+      1.4005771
+    ],
+    "deep_dark_regrowth:ancient_leggings": [
+      398,
+      5.352136
+    ],
+    "deep_dark_regrowth:corruption_leggings": [
+      1469,
+      2.236861
+    ],
+    "deep_dark_regrowth:phantom_armor_charge_leggings": [
+      1523,
+      2.1656408
+    ],
+    "deep_dark_regrowth:phantom_armor_invisible_leggings": [
+      1523,
+      2.1656408
+    ],
+    "deep_dark_regrowth:phantom_armor_leggings": [
+      1523,
+      2.1656408
+    ],
+    "deeperdarker:warden_leggings": [
+      517,
+      5.0993676
+    ],
+    "minecraft:chainmail_leggings": [
+      2766,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      1850,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      2832,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      2518,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      3114,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      1723,
+      1.9030677
+    ]
+  },
+  "CHEST": {
+    "advancednetherite:netherite_diamond_chestplate": [
+      96,
+      6.060683
+    ],
+    "advancednetherite:netherite_emerald_chestplate": [
+      531,
+      5.1441197
+    ],
+    "advancednetherite:netherite_gold_chestplate": [
+      520,
+      5.167534
+    ],
+    "advancednetherite:netherite_iron_chestplate": [
+      973,
+      4.175677
+    ],
+    "aquamirae:abyssal_brigantine": [
+      1948,
+      1.6554433
+    ],
+    "aquamirae:terrible_chestplate": [
+      2002,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_suit": [
+      1340,
+      3.1174598
+    ],
+    "cardinal_sins:darksteelarmor_chestplate": [
+      981,
+      4.1572337
+    ],
+    "cardinal_sins:robed_armor_chestplate": [
+      2540,
+      0.8932308
+    ],
+    "cold_sweat:goat_fur_parka": [
+      2672,
+      0.7212403
+    ],
+    "cold_sweat:hoglin_tunic": [
+      2145,
+      1.4005771
+    ],
+    "create:copper_backtank": [
+      2819,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      1758,
+      1.9030677
+    ],
+    "deep_dark_regrowth:ancient_chestplate": [
+      433,
+      5.352136
+    ],
+    "deep_dark_regrowth:corruption_chestplate": [
+      1504,
+      2.236861
+    ],
+    "deep_dark_regrowth:phantom_armor_charge_chestplate": [
+      1558,
+      2.1656408
+    ],
+    "deep_dark_regrowth:phantom_armor_chestplate": [
+      1558,
+      2.1656408
+    ],
+    "deep_dark_regrowth:phantom_armor_invisible_chestplate": [
+      1558,
+      2.1656408
+    ],
+    "deep_dark_regrowth:void_collar_charge_chestplate": [
+      3365,
+      0.0028
+    ],
+    "deep_dark_regrowth:void_collar_chestplate": [
+      3365,
+      0.0028
+    ],
+    "deeperdarker:warden_chestplate": [
+      552,
+      5.0993676
+    ],
+    "minecraft:chainmail_chestplate": [
+      2801,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      1885,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      2867,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      2553,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      3149,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      1758,
+      1.9030677
+    ],
+    "undead_revamp2:bostroxset_chestplate": [
+      7,
+      6.246758
+    ],
+    "undead_revamp2:primodialarmour_chestplate": [
+      1516,
+      2.2210226
+    ]
+  },
+  "HEAD": {
+    "advancednetherite:netherite_diamond_helmet": [
+      96,
+      6.060683
+    ],
+    "advancednetherite:netherite_emerald_helmet": [
+      531,
+      5.1441197
+    ],
+    "advancednetherite:netherite_gold_helmet": [
+      520,
+      5.167534
+    ],
+    "advancednetherite:netherite_iron_helmet": [
+      973,
+      4.175677
+    ],
+    "aquamirae:abyssal_heaume": [
+      1948,
+      1.6554433
+    ],
+    "aquamirae:abyssal_tiara": [
+      1609,
+      2.0985024
+    ],
+    "aquamirae:terrible_helmet": [
+      2002,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_helmet": [
+      1340,
+      3.1174598
+    ],
+    "cardinal_sins:darksteelarmor_helmet": [
+      981,
+      4.1572337
+    ],
+    "cardinal_sins:robed_armor_helmet": [
+      2540,
+      0.8932308
+    ],
+    "cold_sweat:goat_fur_cap": [
+      2672,
+      0.7212403
+    ],
+    "cold_sweat:hoglin_headpiece": [
+      2145,
+      1.4005771
+    ],
+    "create:copper_diving_helmet": [
+      2819,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      1758,
+      1.9030677
+    ],
+    "deep_dark_regrowth:ancient_helmet": [
+      433,
+      5.352136
+    ],
+    "deep_dark_regrowth:ancient_illusioner_mask_charge_helmet": [
+      2760,
+      0.6010664
+    ],
+    "deep_dark_regrowth:ancient_illusioner_mask_helmet": [
+      2760,
+      0.6010664
+    ],
+    "deep_dark_regrowth:awareness_glasses_helmet": [
+      3208,
+      0.018499998
+    ],
+    "deep_dark_regrowth:corruption_helmet": [
+      1504,
+      2.236861
+    ],
+    "deep_dark_regrowth:dead_warden_helmet_helmet": [
+      3362,
+      0.0030999999
+    ],
+    "deep_dark_regrowth:phantom_armor_charge_helmet": [
+      1558,
+      2.1656408
+    ],
+    "deep_dark_regrowth:phantom_armor_helmet": [
+      1558,
+      2.1656408
+    ],
+    "deep_dark_regrowth:phantom_armor_invisible_helmet": [
+      1558,
+      2.1656408
+    ],
+    "deep_dark_regrowth:warden_helmet": [
+      3123,
+      0.027
+    ],
+    "deeperdarker:warden_helmet": [
+      552,
+      5.0993676
+    ],
+    "luminous_nether:executioner_hood_helmet": [
+      2489,
+      0.9588353
+    ],
+    "luminousworld:headwraps_helmet": [
+      2489,
+      0.9588353
+    ],
+    "luminousworld:shellmet_helmet": [
+      2399,
+      1.0742859
+    ],
+    "minecraft:chainmail_helmet": [
+      2801,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      1885,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      2867,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      2553,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      3149,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      1758,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      2497,
+      0.948558
+    ],
+    "undead_revamp2:bostroxset_helmet": [
+      7,
+      6.246758
+    ],
+    "undead_revamp2:imbuemask_helmet": [
+      2385,
+      1.0922337
+    ],
+    "undead_revamp2:nullifymask_helmet": [
+      2385,
+      1.0922337
+    ],
+    "undead_revamp2:primodialarmour_helmet": [
+      1516,
+      2.2210226
+    ],
+    "undead_revamp2:shieldmask_helmet": [
+      2385,
+      1.0922337
+    ],
+    "undead_revamp2:witherchargemask_helmet": [
+      2804,
+      0.53562516
+    ]
+  }
+}
