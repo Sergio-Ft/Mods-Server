@@ -870,3 +870,32 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [13Jan2025 03:32:42.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Hrrrm?]
 [13Jan2025 03:34:09.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Thriller Incarnate]
 [13Jan2025 03:34:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Thriller Incarnate]
+[13Jan2025 03:37:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by The Upside Bidy
+[13Jan2025 03:37:01.466] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[13Jan2025 03:37:43.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[13Jan2025 03:39:05.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by Sucker
+[13Jan2025 03:39:05.417] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[13Jan2025 03:39:15.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by Sucker
+[13Jan2025 03:39:15.918] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[13Jan2025 03:39:16.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Sergio-Ft to Markitos_17]
+[13Jan2025 03:39:34.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Knowledge of Death]
+[13Jan2025 03:39:34.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has reached the goal [Chain Death]
+[13Jan2025 03:39:34.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by Sucker
+[13Jan2025 03:39:34.020] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[13Jan2025 03:39:59.831] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 03:39:59.831] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 03:39:59.831] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 03:39:59.832] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 03:39:59.832] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 03:40:07.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[13Jan2025 03:43:19.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Acquire Hardware]
+[13Jan2025 03:43:41.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Isn't It Iron Pick]
+[13Jan2025 03:44:06.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Timed out
+[13Jan2025 03:44:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[13Jan2025 03:44:06.211] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[13Jan2025 03:45:00.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markitos_17[/127.131.166.66:36413] logged in with entity id 6413 at (216.19656862696928, 159.0, 52.69297807697664)
+[13Jan2025 03:45:00.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 joined the game
+[13Jan2025 03:45:00.725] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Markitos_17 (18)
+[13Jan2025 03:45:00.725] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Markitos_17
+[13Jan2025 03:45:11.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Acquire Hardware]
+[13Jan2025 03:45:32.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Isn't It Iron Pick]

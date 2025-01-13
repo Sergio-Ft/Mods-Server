@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
+  },
   "cyanwarriorswordsredux:recipes/upgrade_sword_fire": {
     "criteria": {
       "has_item": "2025-01-13 03:12:41 +0000"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-01-13 03:11:18 +0000"
@@ -80,6 +92,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-13 03:32:20 +0000"
     },
     "done": true
   },
@@ -149,6 +167,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
+  },
   "cyanwarriorswordsredux:recipes/upgrade_sword_wind": {
     "criteria": {
       "has_item": "2025-01-13 03:12:41 +0000"
@@ -182,6 +206,12 @@
   "cyanwarriorswordsredux:recipes/craft_beast_essence": {
     "criteria": {
       "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:hrrrm": {
+    "criteria": {
+      "hrrrm_0": "2025-01-13 03:32:42 +0000"
     },
     "done": true
   },
@@ -238,6 +268,12 @@
       "has_item": "2025-01-13 03:12:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
   },
   "cold_sweat:root": {
     "criteria": {
@@ -311,11 +347,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-13 03:24:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
   },
   "cyanwarriorswordsredux:recipes/craft_triender_thunder": {
     "criteria": {
@@ -395,6 +443,18 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
+  },
+  "immersivecaves:thriller_incarnate": {
+    "criteria": {
+      "thriller_incarnate_0": "2025-01-13 03:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-13 03:14:07 +0000"
@@ -437,6 +497,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-01-13 03:30:45 +0000"
@@ -473,6 +539,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-13 03:35:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-13 03:15:33 +0000"
@@ -490,6 +568,12 @@
       "in_water": "2025-01-13 03:15:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
@@ -514,6 +598,12 @@
       "has_planks": "2025-01-13 03:14:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
@@ -563,6 +653,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:43:52 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-01-13 03:11:18 +0000"
@@ -590,6 +686,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-13 03:24:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-01-13 03:35:50 +0000"
     },
     "done": true
   },
