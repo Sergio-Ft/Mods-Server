@@ -766,3 +766,48 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [13Jan2025 03:56:55.205] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
 [13Jan2025 03:57:22.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by The Moonflower
 [13Jan2025 03:57:22.576] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[13Jan2025 03:58:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[13Jan2025 03:58:45.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Monster Hunter]
+[13Jan2025 03:59:03.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Markitos_17'/1714, l='ServerLevel[world]', x=180.97, y=144.72, z=38.76] died: Markitos_17 was slain by Sergio-Ft
+[13Jan2025 04:01:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by The Hunter
+[13Jan2025 04:01:53.972] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[13Jan2025 04:02:03.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Sergio-Ft to Markitos_17]
+[13Jan2025 04:02:06.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by The Hunter
+[13Jan2025 04:02:06.424] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[13Jan2025 04:02:19.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by The Hunter
+[13Jan2025 04:02:19.034] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[13Jan2025 04:02:49.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[13Jan2025 04:03:12.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by The Hunter
+[13Jan2025 04:03:12.080] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[13Jan2025 04:03:13.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by The Hunter
+[13Jan2025 04:03:13.477] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[13Jan2025 04:03:32.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[13Jan2025 04:03:39.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 was kicked for floating too long!
+[13Jan2025 04:03:39.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Disconnected
+[13Jan2025 04:03:39.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[13Jan2025 04:03:39.770] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[13Jan2025 04:03:39.817] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jan2025 04:03:39.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[13Jan2025 04:04:10.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markitos_17[/127.131.166.66:47533] logged in with entity id 3402 at (-17.44574644720947, 152.80982363200934, 10.535870753315926)
+[13Jan2025 04:04:10.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 joined the game
+[13Jan2025 04:04:11.340] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Markitos_17 (18)
+[13Jan2025 04:04:11.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Markitos_17
+[13Jan2025 04:04:13.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[13Jan2025 04:04:32.679] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[13Jan2025 04:04:49.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Sergio-Ft to Markitos_17]
+[13Jan2025 04:05:03.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Night Night]
+[13Jan2025 04:05:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by The Somnolence
+[13Jan2025 04:05:04.374] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[13Jan2025 04:05:06.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by The Skeeper
+[13Jan2025 04:05:06.021] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[13Jan2025 04:05:12.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Huddle Close]
+[13Jan2025 04:05:25.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Night Night]
+[13Jan2025 04:05:27.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[13Jan2025 04:05:29.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[13Jan2025 04:05:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[13Jan2025 04:05:51.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[13Jan2025 04:05:53.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[13Jan2025 04:07:04.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[13Jan2025 04:07:29.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has completed the challenge [I'm not sugar coating it]
+[13Jan2025 04:07:53.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by The Hunter
+[13Jan2025 04:07:53.923] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
