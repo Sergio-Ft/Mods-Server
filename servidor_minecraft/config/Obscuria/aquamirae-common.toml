@@ -63,7 +63,7 @@
 		#Range: 0.0 ~ 100.0
 		swimSpeed = 3.0
 		#Range: 1.0 ~ 100000.0
-		maxHealth = 30.0
+		maxHealth = 20.0
 		#Range: 0.0 ~ 1000.0
 		armor = 4.0
 		#Range: 0.0 ~ 10.0

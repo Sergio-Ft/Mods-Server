@@ -1,0 +1,449 @@
+{
+  "cyanwarriorswordsredux:recipes/craft_earth_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_fire": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-13 03:14:19 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 03:15:10 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_beast": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_wind": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_light": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_thunder_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_beast_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-13 03:16:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_water_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_dark_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_mixed_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-13 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_earth": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_meteothu_meteo": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_triender_thunder": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "cold_sweat:recipes/waterskin": {
+    "criteria": {
+      "temperature": "2025-01-13 03:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_thunder": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_fire_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/from_abilitytotem": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_wind_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_triender_fire": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/smelt_furnace": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-13 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_dark": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_water": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_light_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_meteothu_thu": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-01-13 03:14:02 +0000",
+      "minecraft:dark_forest": "2025-01-13 03:11:18 +0000",
+      "minecraft:frozen_peaks": "2025-01-13 03:16:04 +0000"
+    },
+    "done": false
+  },
+  "cyanwarriorswordsredux:recipes/craft_ender_essence": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_triender_wind": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_ender": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:immersive_caves": {
+    "criteria": {
+      "immersive_caves_0": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "temperature": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2025-01-13 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-13 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/basic_swords": {
+    "criteria": {
+      "has_item": "2025-01-13 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
