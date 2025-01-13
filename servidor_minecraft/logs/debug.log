@@ -8230,3 +8230,18 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [13Jan2025 04:07:53.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by The Hunter
 [13Jan2025 04:07:53.915] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sergio-Ft was created at position [x:218, y:140, z:21, dim:minecraft:overworld]
 [13Jan2025 04:07:53.923] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[13Jan2025 04:07:57.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Sergio-Ft to Markitos_17]
+[13Jan2025 04:08:18.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[13Jan2025 04:08:23.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 04:08:23.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 04:13:23.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 04:13:23.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 04:16:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sergio-Ft> Va a seguir jugando?
+[13Jan2025 04:17:20.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Disconnected
+[13Jan2025 04:17:20.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[13Jan2025 04:17:20.187] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Markitos_17
+[13Jan2025 04:17:20.187] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[13Jan2025 04:17:20.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft lost connection: Disconnected
+[13Jan2025 04:17:20.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft left the game
+[13Jan2025 04:17:20.679] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Sergio-Ft
+[13Jan2025 04:17:20.679] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sergio-Ft
