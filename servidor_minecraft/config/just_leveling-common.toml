@@ -5,7 +5,7 @@
 	aptitudeMaxLevel = 64
 	#First aptitudes level cost: [default: 5]
 	#Range: 1 ~ 1000
-	aptitudeFirstCostLevel = 0.3
+	aptitudeFirstCostLevel = 0.2
 	#Show potions overlay over skills [default: true]
 	showPotionsHud = true
 	#Lock item list: (see the wiki if you wanna know how to add a unlock item)
