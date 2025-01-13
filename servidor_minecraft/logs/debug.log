@@ -8376,3 +8376,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [13Jan2025 03:24:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Getting an Upgrade]
 [13Jan2025 03:24:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Stone Age]
 [13Jan2025 03:25:30.037] [Worker-Main-25/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior216 is being run through DFU (hash def980a590938a160cf7d587e79b8970eedf518c4a8dfdc0d865db9f0dc65ce8), this will cause launch time delays
+[13Jan2025 03:26:52.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:26:52.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 03:30:24.558] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[13Jan2025 03:31:52.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:31:52.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 03:32:22.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Hrrrm?]
+[13Jan2025 03:32:42.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Hrrrm?]
+[13Jan2025 03:34:09.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Thriller Incarnate]
+[13Jan2025 03:34:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Thriller Incarnate]
