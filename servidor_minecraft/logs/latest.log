@@ -266,3 +266,29 @@
 [15Jan2025 01:21:53.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft joined the game
 [15Jan2025 01:21:53.651] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
 [15Jan2025 01:21:53.652] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
+[15Jan2025 01:23:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Made Sergio-Ft no longer a server operator]
+[15Jan2025 01:25:24.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Timed out
+[15Jan2025 01:25:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[15Jan2025 01:25:24.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[15Jan2025 01:26:15.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markitos_17[/127.147.68.107:43277] logged in with entity id 17362 at (264.69999998807907, 164.0, 40.850536824827884)
+[15Jan2025 01:26:15.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 joined the game
+[15Jan2025 01:26:17.389] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Markitos_17 (18)
+[15Jan2025 01:26:17.390] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Markitos_17
+[15Jan2025 01:27:28.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sergio-Ft> q paso?
+[15Jan2025 01:27:30.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Timed out
+[15Jan2025 01:27:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[15Jan2025 01:27:30.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[15Jan2025 01:28:36.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markitos_17[/127.147.68.107:51029] logged in with entity id 17559 at (263.84421844057596, 164.0, 40.975495372933366)
+[15Jan2025 01:28:36.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 joined the game
+[15Jan2025 01:28:36.592] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Markitos_17 (18)
+[15Jan2025 01:28:36.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Markitos_17
+[15Jan2025 01:29:06.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Timed out
+[15Jan2025 01:29:06.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[15Jan2025 01:29:06.273] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[15Jan2025 01:30:23.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markitos_17[/127.253.73.178:52881] logged in with entity id 17720 at (263.94101102140723, 164.0, 40.99083151886138)
+[15Jan2025 01:30:23.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 joined the game
+[15Jan2025 01:30:24.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Markitos_17 (18)
+[15Jan2025 01:30:24.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Markitos_17
+[15Jan2025 01:32:21.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by The Moonflower
+[15Jan2025 01:32:21.850] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 01:32:36.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has reached the goal [Discreet Search]
