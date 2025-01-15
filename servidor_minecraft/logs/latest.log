@@ -221,3 +221,26 @@
 [15Jan2025 00:57:41.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [First big catch of the month!]
 [15Jan2025 00:57:43.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Diamonds!]
 [15Jan2025 00:57:47.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has completed the challenge [One eyed big skelly]
+[15Jan2025 01:03:21.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Changed the block at 257, 191, 43]
+[15Jan2025 01:03:23.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Changed the block at 257, 191, 44]
+[15Jan2025 01:03:32.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Changed the block at 257, 191, 40]
+[15Jan2025 01:03:35.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Changed the block at 257, 191, 39]
+[15Jan2025 01:03:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Changed the block at 257, 191, 38]
+[15Jan2025 01:03:50.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 200 experience points to Sergio-Ft]
+[15Jan2025 01:03:55.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 2000 experience points to Sergio-Ft]
+[15Jan2025 01:04:22.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft lost connection: Timed out
+[15Jan2025 01:04:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft left the game
+[15Jan2025 01:04:22.774] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sergio-Ft
+[15Jan2025 01:05:14.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio-Ft[/127.34.83.0:52699] logged in with entity id 14991 at (220.4334693587548, 159.0, 35.48372967100424)
+[15Jan2025 01:05:14.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft joined the game
+[15Jan2025 01:05:15.100] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
+[15Jan2025 01:05:15.101] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
+[15Jan2025 01:05:59.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft lost connection: Timed out
+[15Jan2025 01:05:59.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft left the game
+[15Jan2025 01:05:59.625] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sergio-Ft
+[15Jan2025 01:09:00.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio-Ft[/127.34.83.0:38375] logged in with entity id 15300 at (220.4334693587548, 159.0, 35.48372967100424)
+[15Jan2025 01:09:00.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft joined the game
+[15Jan2025 01:09:02.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
+[15Jan2025 01:09:02.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
+[15Jan2025 01:11:14.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[15Jan2025 01:11:52.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
