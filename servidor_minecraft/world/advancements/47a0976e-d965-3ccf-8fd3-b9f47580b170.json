@@ -1046,73 +1046,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 00:38:16 +0000"
+      "log_spam_fixer": "2025-01-15 00:48:16 +0000"
     },
     "done": false
   },
@@ -1131,6 +1131,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-01-15 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-15 00:39:20 +0000"
     },
     "done": true
   },
@@ -1155,6 +1161,12 @@
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-01-15 00:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-15 00:44:45 +0000"
     },
     "done": true
   },
@@ -1257,6 +1269,12 @@
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-01-15 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-15 00:44:20 +0000"
     },
     "done": true
   },
