@@ -7935,3 +7935,124 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [15Jan2025 00:01:25.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
 [15Jan2025 00:01:33.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
 [15Jan2025 00:01:35.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:01:48.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[15Jan2025 00:01:48.048] [Server thread/DEBUG] [tombstone/]: A new grave of the player Markitos_17 was created at position [x:265, y:164, z:39, dim:minecraft:overworld]
+[15Jan2025 00:01:48.055] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 00:01:48.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:02:04.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:06.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:06.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:08.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:08.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:09.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:10.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:10.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:11.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:12.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:12.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:13.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:17.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:18.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:19.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:20.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:20.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:22.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:22.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:24.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:25.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:25.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:27.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:28.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:02:37.511] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from bygonenether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jan2025 00:02:37.512] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jan2025 00:02:37.512] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jan2025 00:02:37.512] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jan2025 00:02:37.513] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jan2025 00:02:37.515] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jan2025 00:02:37.517] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jan2025 00:02:37.517] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jan2025 00:02:37.517] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Jan2025 00:02:39.444] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:creeper_pillar_structure
+[15Jan2025 00:02:39.447] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:luststructuregenerator
+[15Jan2025 00:02:39.458] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:illager_pillar_structure
+[15Jan2025 00:02:39.459] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:capsule_chamber
+[15Jan2025 00:02:39.461] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:warden_pillar_structure
+[15Jan2025 00:02:39.464] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:wither_pillar_structure
+[15Jan2025 00:02:41.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[15Jan2025 00:02:42.471] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars1
+[15Jan2025 00:02:42.493] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars2
+[15Jan2025 00:02:42.497] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars3
+[15Jan2025 00:02:42.628] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars1
+[15Jan2025 00:02:42.672] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars2
+[15Jan2025 00:02:42.673] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:lamp1
+[15Jan2025 00:02:42.921] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[15Jan2025 00:02:42.949] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[15Jan2025 00:02:42.989] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[15Jan2025 00:02:45.128] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ls1
+[15Jan2025 00:02:49.731] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ms1
+[15Jan2025 00:02:50.424] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[15Jan2025 00:02:54.940] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[15Jan2025 00:02:57.094] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[15Jan2025 00:02:58.799] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[15Jan2025 00:03:01.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[15Jan2025 00:03:08.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 00:03:08.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 00:05:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:05:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:07:16.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 1 [Iron Pickaxe] to Sergio-Ft]
+[15Jan2025 00:07:31.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:07:41.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:08:08.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 00:08:08.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 00:10:00.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/floating_islands
+[15Jan2025 00:10:00.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[15Jan2025 00:10:00.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[15Jan2025 00:10:01.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[15Jan2025 00:10:01.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[15Jan2025 00:10:01.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[15Jan2025 00:10:01.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[15Jan2025 00:10:02.552] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:ancient_fossil
+[15Jan2025 00:10:02.557] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:subterranean_vault
+[15Jan2025 00:10:02.560] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:sculk_heart
+[15Jan2025 00:10:10.768] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[15Jan2025 00:10:15.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:10:16.450] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[15Jan2025 00:10:16.456] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[15Jan2025 00:10:16.749] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[15Jan2025 00:10:25.334] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[15Jan2025 00:10:25.428] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[15Jan2025 00:10:28.386] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ss1
+[15Jan2025 00:10:29.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/settlement_large
+[15Jan2025 00:10:29.179] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/desert/copper_house1 is being run through DFU (hash fed06bd7a85d00adad4f751fbe8d6b9139c446e303473274c869878db18eb991), this will cause launch time delays
+[15Jan2025 00:10:30.027] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/graveyard2 is being run through DFU (hash ca73f7bbc15d477d8dd303bf1691e22b3c080a0c2dab91304e22a48868227382), this will cause launch time delays
+[15Jan2025 00:10:30.144] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[15Jan2025 00:10:30.154] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/camp/scarecrow is being run through DFU (hash 091653853e37d1ce7d322f39f1ec95de2346967b1d481effb64451203375d9f0), this will cause launch time delays
+[15Jan2025 00:10:30.190] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[15Jan2025 00:10:30.824] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, -1], pos: BlockPos{x=624, y=-33, z=-3}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[15Jan2025 00:10:30.827] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, -1], pos: BlockPos{x=624, y=-33, z=-4}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[15Jan2025 00:10:30.828] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, -1], pos: BlockPos{x=624, y=-33, z=-5}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[15Jan2025 00:10:30.833] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, -1], pos: BlockPos{x=624, y=-30, z=-1}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[15Jan2025 00:10:33.096] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[15Jan2025 00:10:34.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:10:36.695] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[15Jan2025 00:10:45.622] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool3
+[15Jan2025 00:10:57.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:11:04.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:11:04.234] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[15Jan2025 00:11:09.764] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[15Jan2025 00:11:18.099] [Worker-Main-1/DEBUG] [ModernFix/]: Structure undead_revamp2:tomb1 is being run through DFU (hash 3dc9ec999ef786910a1cd0eafb187e670f36b7d7ea39d719fdc56d0cf9c3d584), this will cause launch time delays
+[15Jan2025 00:11:18.996] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[15Jan2025 00:11:19.030] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor/large1 is being run through DFU (hash 84c64893ddb649c6ac874e677fc8173adddbfe0d587a6aeb7c9a733d52a76705), this will cause launch time delays
+[15Jan2025 00:11:19.812] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/witch
+[15Jan2025 00:11:19.819] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor/connector2 is being run through DFU (hash 387bcac61b4514ab3f46bfd5b4bfa0b9a61d57b353055fecc68bfc965dd6ddef), this will cause launch time delays
+[15Jan2025 00:11:19.840] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/allay_cage is being run through DFU (hash 92efffe67c03200d3106a765a78c42b2e7208180e3e00d44274c0b1a66abb163), this will cause launch time delays
+[15Jan2025 00:11:19.899] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/well is being run through DFU (hash 41e3cdaa8979faf7867dd6b5322d3bcb4e0a3eb4fc604ae5f14d8ad581660e48), this will cause launch time delays
+[15Jan2025 00:11:19.920] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/zombie is being run through DFU (hash 729ea081ab2321e9d7a075d36b3434d83e92e3456fbe4cfdc1ec76341807b58c), this will cause launch time delays
+[15Jan2025 00:11:19.940] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/amethyst_shrine is being run through DFU (hash 0e78e6c429d41681977260c4f31b1e838aa525488f7292c3317cf9fa7d7f2297), this will cause launch time delays
+[15Jan2025 00:11:19.948] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/pumpkins is being run through DFU (hash 427b6708d445b3ace1cc59215ed886019771ab492d626627879e981b4fcee42d), this will cause launch time delays
+[15Jan2025 00:11:19.958] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/graveyard_large is being run through DFU (hash 92ba7a2ed2018cc5582221d545d60179cbff2907518b264f62c1241e3288022c), this will cause launch time delays
+[15Jan2025 00:11:19.975] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/graves is being run through DFU (hash 8e93cdac7e0093e81afb7d49d8ff651243fe67ff64684415bb2a3a165925dc53), this will cause launch time delays
+[15Jan2025 00:11:21.582] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
