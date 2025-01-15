@@ -48,3 +48,98 @@
 [15Jan2025 00:10:57.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
 [15Jan2025 00:11:04.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
 [15Jan2025 00:11:18.996] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[15Jan2025 00:12:20.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:12:25.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:12:40.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Where Is The Stone Pen?]
+[15Jan2025 00:13:53.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:13:56.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:14:12.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:14:36.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! -5.32777959015408,6.600000262260437,5.829423380650564
+[15Jan2025 00:14:55.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! -9.35294822100866,-3.3750001341104507,-1.1879514064283256
+[15Jan2025 00:15:07.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [The Forgotten Story]
+[15Jan2025 00:15:13.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 1.5063224867348879,6.750000267607405,-7.267550000768747
+[15Jan2025 00:15:41.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 0.0,-10.125000402331352,0.0
+[15Jan2025 00:15:43.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 0.0,-10.312500617038765,0.0
+[15Jan2025 00:15:47.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 2.1187366956139613,-9.489600377082823,2.6832715298777856
+[15Jan2025 00:15:53.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! -10.09482658612123,3.750000149011612,0.9920045994506381
+[15Jan2025 00:16:38.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 1.9947527912809448,0.0,10.398913633194041
+[15Jan2025 00:16:41.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 0.875351055018541,-0.931797820011127,10.667165765691209
+[15Jan2025 00:16:46.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 7.252571663809363,-3.3750001341104507,-6.3227064281710454
+[15Jan2025 00:17:03.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:17:08.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[15Jan2025 00:17:08.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=460, y=24, z=247} BlockPos{x=460, y=23, z=247}
+[15Jan2025 00:20:06.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 1 [Command Block] to Sergio-Ft]
+[15Jan2025 00:21:36.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:21:39.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[15Jan2025 00:21:44.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:21:55.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[15Jan2025 00:21:57.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:22:00.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 00:22:04.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:22:18.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:18.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:19.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:20.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:20.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:21.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:22.103] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[15Jan2025 00:22:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:23.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:24.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:25.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:26.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:27.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:28.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Summoned new Zombie]
+[15Jan2025 00:22:32.464] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [52, 5], pos: BlockPos{x=847, y=-56, z=80}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[15Jan2025 00:22:32.464] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [52, 5], pos: BlockPos{x=847, y=-56, z=81}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[15Jan2025 00:22:32.465] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [52, 5], pos: BlockPos{x=847, y=-56, z=82}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[15Jan2025 00:22:32.465] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [52, 4], pos: BlockPos{x=847, y=-53, z=78}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[15Jan2025 00:22:48.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 moved too quickly! 7.177527988009615,-4.464159374955443,-5.4405315149860485
+[15Jan2025 00:22:48.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7786ms or 155 ticks behind
+[15Jan2025 00:23:41.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft lost connection: Disconnected
+[15Jan2025 00:23:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft left the game
+[15Jan2025 00:23:41.704] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sergio-Ft
+[15Jan2025 00:23:48.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio-Ft[/127.34.83.0:58035] logged in with entity id 7846 at (215.74673881170455, 159.0, 48.95548609832374)
+[15Jan2025 00:23:48.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft joined the game
+[15Jan2025 00:23:48.846] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
+[15Jan2025 00:23:48.847] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
+[15Jan2025 00:25:50.404] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Jan2025 00:25:50.405] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Jan2025 00:26:30.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Sergio-Ft to Markitos_17]
+[15Jan2025 00:27:43.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 burned to death
+[15Jan2025 00:27:43.639] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 00:28:08.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[15Jan2025 00:28:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 64 [Torch] to Sergio-Ft]
+[15Jan2025 00:29:51.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=907, y=154, z=-139} BlockPos{x=908, y=152, z=-139}
+[15Jan2025 00:30:28.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was shot by %2$s
+[15Jan2025 00:30:28.352] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 00:30:28.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[15Jan2025 00:30:53.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 64 [Arrow] to Sergio-Ft]
+[15Jan2025 00:31:08.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Take Aim]
+[15Jan2025 00:32:09.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[15Jan2025 00:32:29.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has completed the challenge [Thine end is here.]
+[15Jan2025 00:32:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [First big catch of the month!]
+[15Jan2025 00:33:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Diamonds!]
+[15Jan2025 00:33:29.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:33:49.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft lost connection: Disconnected
+[15Jan2025 00:33:49.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft left the game
+[15Jan2025 00:33:49.232] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sergio-Ft
+[15Jan2025 00:33:49.324] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jan2025 00:34:39.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio-Ft[/127.34.83.0:40521] logged in with entity id 10850 at (895.1960991458648, 153.0, -147.43717660811342)
+[15Jan2025 00:34:39.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft joined the game
+[15Jan2025 00:34:39.563] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
+[15Jan2025 00:34:39.564] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
+[15Jan2025 00:35:11.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[15Jan2025 00:35:31.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:35:43.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by Zombie
+[15Jan2025 00:35:43.686] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 00:36:22.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[15Jan2025 00:36:26.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has completed the challenge [Desperate Measures]
+[15Jan2025 00:36:40.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! -10.106714334695766,-1.0244240882136637,-0.1939487991886324
+[15Jan2025 00:36:48.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[15Jan2025 00:37:07.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 7.2626818804377535,-3.2481359985909535,-6.344021788980967
+[15Jan2025 00:37:21.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[15Jan2025 00:37:24.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 00:39:17.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Sweet Dreams]
+[15Jan2025 00:39:20.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Sweet Dreams]
