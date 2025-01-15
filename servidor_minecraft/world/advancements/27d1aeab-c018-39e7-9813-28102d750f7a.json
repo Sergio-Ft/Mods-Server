@@ -1314,8 +1314,10 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-14 04:04:26 +0000",
       "minecraft:spider": "2025-01-14 04:16:51 +0000",
+      "minecraft:phantom": "2025-01-15 01:42:54 +0000",
       "minecraft:witch": "2025-01-14 04:16:48 +0000",
       "minecraft:stray": "2025-01-15 00:37:57 +0000",
+      "minecraft:enderman": "2025-01-15 01:33:59 +0000",
       "minecraft:zombie": "2025-01-13 03:58:45 +0000",
       "minecraft:zombie_villager": "2025-01-14 04:08:18 +0000"
     },
@@ -2134,6 +2136,84 @@
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat_0": "2025-01-15 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-15 01:32:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-01-15 01:42:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-15 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-15 01:47:04 +0000"
     },
     "done": true
   },

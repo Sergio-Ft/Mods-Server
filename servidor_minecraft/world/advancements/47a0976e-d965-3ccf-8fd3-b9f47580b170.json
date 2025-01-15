@@ -73,7 +73,8 @@
       "minecraft:jagged_peaks": "2025-01-15 00:35:44 +0000",
       "minecraft:forest": "2025-01-15 00:23:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-15 00:02:57 +0000",
-      "minecraft:frozen_peaks": "2025-01-13 03:16:04 +0000"
+      "minecraft:frozen_peaks": "2025-01-13 03:16:04 +0000",
+      "minecraft:deep_dark": "2025-01-15 01:44:35 +0000"
     },
     "done": false
   },
@@ -1512,77 +1513,149 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_feather": "2025-01-15 01:30:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "deeperdarker:main/root": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:27:17 +0000"
+      "deep_dark": "2025-01-15 01:44:35 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
+    },
+    "done": true
+  },
+  "deep_dark_regrowth:the_forgotten_story": {
+    "criteria": {
+      "the_forgotten_story": "2025-01-15 01:44:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-15 01:30:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-15 01:47:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-15 01:44:26 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
