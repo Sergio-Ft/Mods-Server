@@ -531,3 +531,497 @@ java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capa
 [15Jan2025 02:22:46.391] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
 [15Jan2025 02:22:46.392] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
 [15Jan2025 02:22:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sergio-Ft to Markitos_17
+[15Jan2025 02:23:43.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sergio-Ft to Markitos_17
+[15Jan2025 02:24:14.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Where Is The Stone Pen?]
+[15Jan2025 02:25:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sergio-Ft to Markitos_17
+[15Jan2025 02:26:05.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Sergio-Ft a server operator
+[15Jan2025 02:26:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by The Moonflower
+[15Jan2025 02:26:49.376] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[15Jan2025 02:26:49.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! -2.2123379098082694,0.0,9.980809225853115
+[15Jan2025 02:26:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by The Moonflower
+[15Jan2025 02:26:50.964] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 02:26:51.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Disconnected
+[15Jan2025 02:26:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[15Jan2025 02:26:51.122] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[15Jan2025 02:27:07.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 1 [Ender Pearl] to Sergio-Ft]
+[15Jan2025 02:27:24.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markitos_17[/127.253.73.178:37847] logged in with entity id 25846 at (199.46355675495886, -51.0, 47.20600712252671)
+[15Jan2025 02:27:24.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 joined the game
+[15Jan2025 02:27:25.095] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Markitos_17 (18)
+[15Jan2025 02:27:25.096] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Markitos_17
+[15Jan2025 02:27:42.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[15Jan2025 02:28:24.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 9.386938770202079,0.0,-3.551452250380322
+[15Jan2025 02:28:35.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft was kicked for floating too long!
+[15Jan2025 02:28:35.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft lost connection: Flying is not enabled on this server
+[15Jan2025 02:28:35.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft left the game
+[15Jan2025 02:28:35.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sergio-Ft
+[15Jan2025 02:29:23.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio-Ft[/127.34.83.0:35721] logged in with entity id 26062 at (242.54602424200218, -48.75081292125532, 23.22147802011263)
+[15Jan2025 02:29:23.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft joined the game
+[15Jan2025 02:29:24.000] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
+[15Jan2025 02:29:24.001] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
+[15Jan2025 02:29:56.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! -1.3607890848535646,8.58133599222517,5.1721701574237
+[15Jan2025 02:30:37.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 0.0,10.150000346784324,-0.007244424813691808
+[15Jan2025 02:30:41.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 0.00257432913770117,-10.678132352562958,-1.8751655852259432
+[15Jan2025 02:36:22.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[15Jan2025 02:37:07.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Disconnected
+[15Jan2025 02:37:07.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[15Jan2025 02:37:07.973] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[15Jan2025 02:37:19.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markitos_17[/127.253.73.178:35041] logged in with entity id 27267 at (221.02955302873355, 159.0, 57.436145395464955)
+[15Jan2025 02:37:19.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 joined the game
+[15Jan2025 02:37:19.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Markitos_17 (18)
+[15Jan2025 02:37:19.851] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Markitos_17
+[15Jan2025 02:37:24.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has completed the challenge [Desperate Measures]
+[15Jan2025 02:37:39.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Markitos_17 to Sergio-Ft]
+[15Jan2025 02:37:51.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by Vex
+[15Jan2025 02:37:51.447] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 02:37:59.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[15Jan2025 02:38:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 02:38:12.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[15Jan2025 02:38:27.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 02:38:29.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by Vex
+[15Jan2025 02:38:29.942] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[15Jan2025 02:38:45.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Sergio-Ft to Markitos_17]
+[15Jan2025 02:38:46.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Ambush]
+[15Jan2025 02:38:47.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Teleported Sergio-Ft to Markitos_17]
+[15Jan2025 02:38:54.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by Vex
+[15Jan2025 02:38:54.964] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 02:39:01.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Spectator Mode]
+[15Jan2025 02:39:04.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[15Jan2025 02:39:44.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by Vex
+[15Jan2025 02:39:44.540] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 02:39:49.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by Vex
+[15Jan2025 02:39:49.340] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[15Jan2025 02:39:50.405] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Sergio-Ft} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@10ad1817 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: class com.tiviacz.travelersbackpack.handlers.ForgeEventHandler onHit(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: net.minecraftforge.eventbus.EventBus$$Lambda$1480/0x00007532786459b8@183a9b6d
+		7: ASM: class com.simibubi.create.foundation.events.CommonEvents onEntityAttackedByPlayer(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: class com.momosoftworks.coldsweat.compat.CompatManager onLivingTempDamage(Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[15Jan2025 02:39:50.409] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@5e409921, suppressing error
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 02:39:50.432] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Sergio-Ft} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@10ad1817 onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		2: ASM: class ovh.corail.tombstone.event.EventHandler onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		3: HIGH
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		5: NORMAL
+		6: net.minecraftforge.eventbus.EventBus$$Lambda$1480/0x00007532786459b8@7e6eb19c
+		7: ASM: class com.izofar.bygonenether.event.ModBlockEvents enforceNetheriteToBreakWitheredStone(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		8: ASM: class com.simibubi.create.content.equipment.zapper.ZapperInteractionHandler leftClickingBlocksWithTheZapperSelectsTheBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		9: ASM: class com.simibubi.create.content.equipment.clipboard.ClipboardValueSettingsHandler leftClickToPaste(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		10: ASM: class net.mcreator.luminousnether.procedures.SCwhiteoffProcedure onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		11: ASM: class net.mcreator.luminousnether.procedures.SCorangeoffProcedure onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		12: ASM: class net.mcreator.luminousnether.procedures.SCblueoffProcedure onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		13: ASM: class com.momosoftworks.coldsweat.compat.CompatManager onLivingTempDamage(Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onLeftClickBlock(RegistryCommonEvents.java:113)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onLeftClickBlock_LeftClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLeftClickBlock(ForgeHooks.java:787)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_214168_(ServerPlayerGameMode.java:127)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7502_(ServerGamePacketListenerImpl.java:1018)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:42)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[15Jan2025 02:39:50.434] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundPlayerActionPacket@19d339e6, suppressing error
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onLeftClickBlock(RegistryCommonEvents.java:113) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onLeftClickBlock_LeftClickBlock.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLeftClickBlock(ForgeHooks.java:787) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_214168_(ServerPlayerGameMode.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7502_(ServerGamePacketListenerImpl.java:1018) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 02:39:50.434] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Sergio-Ft} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@10ad1817 onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		2: ASM: class ovh.corail.tombstone.event.EventHandler onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		3: HIGH
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		5: NORMAL
+		6: net.minecraftforge.eventbus.EventBus$$Lambda$1480/0x00007532786459b8@7e6eb19c
+		7: ASM: class com.izofar.bygonenether.event.ModBlockEvents enforceNetheriteToBreakWitheredStone(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		8: ASM: class com.simibubi.create.content.equipment.zapper.ZapperInteractionHandler leftClickingBlocksWithTheZapperSelectsTheBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		9: ASM: class com.simibubi.create.content.equipment.clipboard.ClipboardValueSettingsHandler leftClickToPaste(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		10: ASM: class net.mcreator.luminousnether.procedures.SCwhiteoffProcedure onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		11: ASM: class net.mcreator.luminousnether.procedures.SCorangeoffProcedure onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		12: ASM: class net.mcreator.luminousnether.procedures.SCblueoffProcedure onLeftClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$LeftClickBlock;)V
+		13: ASM: class com.momosoftworks.coldsweat.compat.CompatManager onLivingTempDamage(Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onLeftClickBlock(RegistryCommonEvents.java:113)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onLeftClickBlock_LeftClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLeftClickBlock(ForgeHooks.java:787)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_214168_(ServerPlayerGameMode.java:127)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7502_(ServerGamePacketListenerImpl.java:1018)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:42)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[15Jan2025 02:39:50.435] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundPlayerActionPacket@4bdbad7e, suppressing error
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onLeftClickBlock(RegistryCommonEvents.java:113) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onLeftClickBlock_LeftClickBlock.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLeftClickBlock(ForgeHooks.java:787) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_214168_(ServerPlayerGameMode.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7502_(ServerGamePacketListenerImpl.java:1018) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 02:39:50.436] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Sergio-Ft} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@10ad1817 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		4: ASM: class com.simibubi.create.content.equipment.wrench.WrenchEventHandler useOwnWrenchLogicForCreateBlocks(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: NORMAL
+		6: ASM: class com.tiviacz.travelersbackpack.handlers.ForgeEventHandler playerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: net.minecraftforge.eventbus.EventBus$$Lambda$1480/0x00007532786459b8@6745200d
+		8: ASM: class net.mcreator.luminousworld.procedures.SoilGlobalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: class net.mcreator.luminousworld.procedures.SavannaGrassGlobalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: class net.mcreator.luminousworld.procedures.BlueBerryGlobalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class net.mcreator.luminousworld.procedures.BlackBerryGlobalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class com.teamremastered.endrem.events.ModEvents onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: class net.mcreator.deepdarkregrowth.procedures.WhenRightClikFlCrystalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class net.mcreator.deepdarkregrowth.procedures.SculkHoeSoilProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.edgeInteraction.EdgeInteractionHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsInputHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: class com.simibubi.create.foundation.block.ItemUseOverrides onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: class com.simibubi.create.content.redstone.link.LinkHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: class com.simibubi.create.content.redstone.displayLink.DisplayLinkBlockItem gathererItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class com.simibubi.create.content.logistics.funnel.FunnelItem funnelItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class com.simibubi.create.content.kinetics.deployer.ManualApplicationRecipe manualApplicationRecipesApplyInWorld(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: io.github.flemmli97.improvedmobs.forge.events.EventHandler@2d4816b openTile(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class com.simibubi.create.content.equipment.clipboard.ClipboardValueSettingsHandler rightClickToCopy(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: class com.simibubi.create.content.contraptions.glue.SuperGlueItem glueItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.luminousnether.procedures.WSlightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.luminousnether.procedures.SoulCauldronOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.luminousnether.procedures.SClightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class net.mcreator.luminousnether.procedures.RitualTableClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class net.mcreator.luminousnether.procedures.RightClickStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: class net.mcreator.luminousnether.procedures.RightClickRitualProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class net.mcreator.luminousnether.procedures.OrangeSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		32: ASM: class net.mcreator.luminousnether.procedures.LightWhiteFireProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		33: ASM: class net.mcreator.luminousnether.procedures.BlueSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		34: ASM: class com.momosoftworks.coldsweat.compat.CompatManager onLivingTempDamage(Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+		35: LOW
+		36: ASM: class com.simibubi.create.content.kinetics.crank.ValveHandleBlock onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		37: LOWEST
+		38: net.minecraftforge.eventbus.EventBus$$Lambda$1480/0x00007532786459b8@6759290a
+		39: ASM: class ovh.corail.tombstone.event.EventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onRightClickBlock(RegistryCommonEvents.java:125)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[15Jan2025 02:39:50.437] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@2128e728, suppressing error
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onRightClickBlock(RegistryCommonEvents.java:125) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onRightClickBlock_RightClickBlock.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 02:39:50.437] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Sergio-Ft} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@10ad1817 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		4: ASM: class com.simibubi.create.content.equipment.wrench.WrenchEventHandler useOwnWrenchLogicForCreateBlocks(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: NORMAL
+		6: ASM: class com.tiviacz.travelersbackpack.handlers.ForgeEventHandler playerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: net.minecraftforge.eventbus.EventBus$$Lambda$1480/0x00007532786459b8@6745200d
+		8: ASM: class net.mcreator.luminousworld.procedures.SoilGlobalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: class net.mcreator.luminousworld.procedures.SavannaGrassGlobalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: class net.mcreator.luminousworld.procedures.BlueBerryGlobalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class net.mcreator.luminousworld.procedures.BlackBerryGlobalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class com.teamremastered.endrem.events.ModEvents onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: class net.mcreator.deepdarkregrowth.procedures.WhenRightClikFlCrystalProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class net.mcreator.deepdarkregrowth.procedures.SculkHoeSoilProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.edgeInteraction.EdgeInteractionHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: class com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsInputHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: class com.simibubi.create.foundation.block.ItemUseOverrides onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: class com.simibubi.create.content.redstone.link.LinkHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: class com.simibubi.create.content.redstone.displayLink.DisplayLinkBlockItem gathererItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class com.simibubi.create.content.logistics.funnel.FunnelItem funnelItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class com.simibubi.create.content.kinetics.deployer.ManualApplicationRecipe manualApplicationRecipesApplyInWorld(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: io.github.flemmli97.improvedmobs.forge.events.EventHandler@2d4816b openTile(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class com.simibubi.create.content.equipment.clipboard.ClipboardValueSettingsHandler rightClickToCopy(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: class com.simibubi.create.content.contraptions.glue.SuperGlueItem glueItemAlwaysPlacesWhenUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.luminousnether.procedures.WSlightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.luminousnether.procedures.SoulCauldronOnBlockRightClickedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.luminousnether.procedures.SClightProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class net.mcreator.luminousnether.procedures.RitualTableClickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class net.mcreator.luminousnether.procedures.RightClickStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: class net.mcreator.luminousnether.procedures.RightClickRitualProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class net.mcreator.luminousnether.procedures.OrangeSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		32: ASM: class net.mcreator.luminousnether.procedures.LightWhiteFireProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		33: ASM: class net.mcreator.luminousnether.procedures.BlueSoulCauldronclickProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		34: ASM: class com.momosoftworks.coldsweat.compat.CompatManager onLivingTempDamage(Lnet/minecraftforge/event/entity/living/LivingEvent;)V
+		35: LOW
+		36: ASM: class com.simibubi.create.content.kinetics.crank.ValveHandleBlock onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		37: LOWEST
+		38: net.minecraftforge.eventbus.EventBus$$Lambda$1480/0x00007532786459b8@6759290a
+		39: ASM: class ovh.corail.tombstone.event.EventHandler onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onRightClickBlock(RegistryCommonEvents.java:125)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[15Jan2025 02:39:50.438] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@419c9bcf, suppressing error
+java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onRightClickBlock(RegistryCommonEvents.java:125) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onRightClickBlock_RightClickBlock.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23219!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.7-universal.jar%23258!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 02:40:01.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 1 [Ender Pearl] to Sergio-Ft]
+[15Jan2025 02:40:36.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 was slain by Vex
+[15Jan2025 02:40:36.640] [Server thread/INFO] [tombstone/]: The player Markitos_17 has successfully been saved
+[15Jan2025 02:47:53.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 1 [Water Bucket] to Sergio-Ft]
+[15Jan2025 02:49:54.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [A Seedy Place]

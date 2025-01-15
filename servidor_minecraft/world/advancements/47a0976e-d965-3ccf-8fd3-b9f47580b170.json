@@ -976,6 +976,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-15 00:00:21 +0000",
+      "minecraft:spider": "2025-01-15 02:47:19 +0000",
+      "minecraft:evoker": "2025-01-15 02:38:46 +0000",
+      "minecraft:stray": "2025-01-15 02:52:49 +0000",
+      "minecraft:vex": "2025-01-15 02:39:24 +0000",
       "minecraft:zombie": "2025-01-13 03:56:52 +0000"
     },
     "done": false
@@ -1778,77 +1782,59 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
+      "has_magic_tablet": "2025-01-15 02:24:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
+      "has_cocoa_beans": "2025-01-15 02:45:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
+      "has_bone_meal": "2025-01-15 02:53:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/food/cookie": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
+      "has_cocoa": "2025-01-15 02:45:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
+      "has_item": "2025-01-15 02:53:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
+      "has_water_bucket": "2025-01-15 02:46:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
+      "has_bone_meal": "2025-01-15 02:53:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
+      "coded_trigger": "2025-01-15 02:38:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "cold_sweat:survival_tactics": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
+      "freezing_on_fire": "2025-01-15 02:37:24 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:21:16 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

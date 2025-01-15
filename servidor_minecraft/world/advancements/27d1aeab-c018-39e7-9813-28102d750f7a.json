@@ -1319,6 +1319,7 @@
       "minecraft:witch": "2025-01-14 04:16:48 +0000",
       "minecraft:stray": "2025-01-15 00:37:57 +0000",
       "minecraft:enderman": "2025-01-15 01:33:59 +0000",
+      "minecraft:vex": "2025-01-15 02:38:14 +0000",
       "minecraft:zombie": "2025-01-13 03:58:45 +0000",
       "minecraft:zombie_villager": "2025-01-14 04:08:18 +0000"
     },
@@ -2356,78 +2357,95 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-01-15 02:20:30 +0000",
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_book": "2025-01-15 02:24:20 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_book": "2025-01-15 02:24:20 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:24:20 +0000"
+    },
+    "done": true
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "requirement": "2025-01-15 02:53:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_cocoa_beans": "2025-01-15 02:49:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_bone_meal": "2025-01-15 02:50:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/food/cookie": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_cocoa": "2025-01-15 02:49:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_wheat": "2025-01-15 02:50:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_wheat": "2025-01-15 02:50:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_item": "2025-01-15 02:50:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "travelersbackpack:recipes/misc/hay": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_wheat": "2025-01-15 02:50:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:20:17 +0000"
+      "has_bone_meal": "2025-01-15 02:50:37 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2025-01-15 02:49:54 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
