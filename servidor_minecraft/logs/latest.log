@@ -481,3 +481,53 @@ java.lang.IllegalArgumentException: Player literal{Sergio-Ft} does not have Capa
 [15Jan2025 01:51:19.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sergio-Ft to Markitos_17
 [15Jan2025 01:52:24.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has reached the goal [A Metropolis of Restless Souls]
 [15Jan2025 01:52:31.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has reached the goal [A Metropolis of Restless Souls]
+[15Jan2025 01:54:26.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 has made the advancement [Cover Me with Diamonds]
+[15Jan2025 02:12:19.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! -1.467791161978056,-1.0,-9.863185878621529
+[15Jan2025 02:13:00.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sergio-Ft to Markitos_17
+[15Jan2025 02:13:58.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sergio-Ft to Markitos_17
+[15Jan2025 02:14:37.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! -4.864870534257619,0.2468000194787976,8.763910545175325
+[15Jan2025 02:16:16.053] [Worker-Main-51/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Jan2025 02:16:16.053] [Worker-Main-51/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Jan2025 02:16:46.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft moved too quickly! 10.01601764796709,0.0,0.315883249431792
+[15Jan2025 02:17:10.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft lost connection: Disconnected
+[15Jan2025 02:17:10.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft left the game
+[15Jan2025 02:17:10.474] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sergio-Ft
+[15Jan2025 02:17:18.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio-Ft[/127.34.83.0:51269] logged in with entity id 24013 at (238.3601062687963, -51.0, -85.34681450696317)
+[15Jan2025 02:17:18.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft joined the game
+[15Jan2025 02:17:18.901] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
+[15Jan2025 02:17:18.902] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
+[15Jan2025 02:17:54.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft has made the advancement [Cover Me with Diamonds]
+[15Jan2025 02:19:10.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Disconnected
+[15Jan2025 02:19:10.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[15Jan2025 02:19:10.474] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[15Jan2025 02:19:26.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markitos_17[/127.253.73.178:49523] logged in with entity id 24211 at (241.2537352230566, -51.0, -89.82512151103096)
+[15Jan2025 02:19:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 joined the game
+[15Jan2025 02:19:27.226] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Markitos_17 (18)
+[15Jan2025 02:19:27.227] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Markitos_17
+[15Jan2025 02:20:19.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft lost connection: Disconnected
+[15Jan2025 02:20:19.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft left the game
+[15Jan2025 02:20:19.321] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sergio-Ft
+[15Jan2025 02:20:22.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Markitos_17 lost connection: Disconnected
+[15Jan2025 02:20:22.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 left the game
+[15Jan2025 02:20:22.873] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Markitos_17
+[15Jan2025 02:20:27.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio-Ft[/127.34.83.0:44049] logged in with entity id 24332 at (235.56059045417402, -52.0, -81.30000001192093)
+[15Jan2025 02:20:27.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft joined the game
+[15Jan2025 02:20:27.447] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
+[15Jan2025 02:20:27.448] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
+[15Jan2025 02:20:42.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft was slain by The Moonflower
+[15Jan2025 02:20:42.888] [Server thread/INFO] [tombstone/]: The player Sergio-Ft has successfully been saved
+[15Jan2025 02:20:55.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sergio-Ft lost connection: Disconnected
+[15Jan2025 02:20:55.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft left the game
+[15Jan2025 02:20:55.421] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sergio-Ft
+[15Jan2025 02:20:55.469] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jan2025 02:20:58.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Markitos_17[/127.253.73.178:57913] logged in with entity id 24663 at (235.56907939967545, -51.0, -84.83213495491623)
+[15Jan2025 02:20:58.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Markitos_17 joined the game
+[15Jan2025 02:20:58.952] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Markitos_17 (18)
+[15Jan2025 02:20:58.953] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Markitos_17
+[15Jan2025 02:22:00.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[15Jan2025 02:22:00.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[15Jan2025 02:22:43.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sergio-Ft[/127.34.83.0:32911] logged in with entity id 24981 at (208.5, 159.0, 29.5)
+[15Jan2025 02:22:43.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sergio-Ft joined the game
+[15Jan2025 02:22:46.391] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sergio-Ft (18)
+[15Jan2025 02:22:46.392] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sergio-Ft
+[15Jan2025 02:22:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sergio-Ft to Markitos_17
