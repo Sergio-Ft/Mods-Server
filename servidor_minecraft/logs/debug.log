@@ -7736,3 +7736,14 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [16Jan2025 14:31:12.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
 [16Jan2025 14:31:32.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
 [16Jan2025 14:31:33.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[16Jan2025 14:31:53.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
+[16Jan2025 14:32:37.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 14:32:37.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 14:32:42.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[16Jan2025 14:35:00.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 2000 experience points to Sergio-Ft]
+[16Jan2025 14:35:09.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 1000 experience points to Sergio-Ft]
+[16Jan2025 14:35:31.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 4000 experience points to Sergio-Ft]
+[16Jan2025 14:35:37.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 4000 experience points to Sergio-Ft]
+[16Jan2025 14:35:44.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 4000 experience points to Sergio-Ft]
+[16Jan2025 14:37:38.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 14:37:38.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
