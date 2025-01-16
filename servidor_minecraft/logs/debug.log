@@ -7712,3 +7712,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [16Jan2025 03:14:06.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
 [16Jan2025 03:16:18.589] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@291d26df for service interface com.blamejared.clumps.platform.IEventHelper
 [16Jan2025 03:16:18.590] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@74a84e1e for service interface com.blamejared.clumps.platform.IPlatformHelper
+[16Jan2025 03:17:27.318] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockStatePairKeyMixin from canary.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[16Jan2025 03:18:03.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 03:18:03.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 03:23:03.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 03:23:03.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

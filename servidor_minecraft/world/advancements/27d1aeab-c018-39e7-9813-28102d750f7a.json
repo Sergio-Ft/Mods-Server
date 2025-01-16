@@ -795,6 +795,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-15 01:18:40 +0000",
       "sweet_berries": "2025-01-15 00:26:23 +0000",
+      "apple": "2025-01-16 03:20:01 +0000",
       "bread": "2025-01-14 23:50:03 +0000",
       "rotten_flesh": "2025-01-13 03:28:28 +0000",
       "glow_berries": "2025-01-15 02:08:32 +0000"
@@ -2459,83 +2460,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-01-15 03:13:39 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
+      "has_lapis_lazuli": "2025-01-16 03:17:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
+      "has_lapis_lazuli": "2025-01-16 03:17:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
+      "has_lapis_lazuli": "2025-01-16 03:17:02 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 03:13:20 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
