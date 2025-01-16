@@ -767,3 +767,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [16Jan2025 15:27:43.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
 [16Jan2025 15:27:46.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Creative Mode]
 [16Jan2025 15:27:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Set own game mode to Survival Mode]
+[16Jan2025 15:33:18.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 5 [Birch Planks] to Sergio-Ft]
+[16Jan2025 15:35:39.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 32 [String] to Sergio-Ft]
+[16Jan2025 15:35:47.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sergio-Ft: Gave 64 [Leather] to Sergio-Ft]
