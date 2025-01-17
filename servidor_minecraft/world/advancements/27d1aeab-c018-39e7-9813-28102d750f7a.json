@@ -78,6 +78,7 @@
       "minecraft:grove": "2025-01-14 04:02:23 +0000",
       "minecraft:jagged_peaks": "2025-01-14 04:02:25 +0000",
       "minecraft:forest": "2025-01-15 00:28:30 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-16 16:36:30 +0000",
       "minecraft:frozen_peaks": "2025-01-13 03:18:00 +0000",
       "minecraft:deep_dark": "2025-01-15 00:15:07 +0000"
     },
@@ -3092,84 +3093,167 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-16 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:insulate_armor": {
+    "criteria": {
+      "requirement": "2025-01-16 16:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-16 16:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 16:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 16:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 16:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 16:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 16:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 16:35:37 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-01-16 15:47:01 +0000",
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 15:46:07 +0000"
+      "log_spam_fixer": "2025-01-17 02:46:19 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_hit": {
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
-      "not_target": "2025-01-16 16:02:07 +0000"
+      "has_dark_prismarine": "2025-01-17 02:44:11 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-17 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-17 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-17 02:44:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
