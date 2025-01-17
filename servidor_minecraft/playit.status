@@ -1,48 +1,498 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1737045446427 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1737084004743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 bay-souls.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737045449488 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737084007803 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 bay-souls.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737045452571 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737084010873 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 bay-souls.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737045455707 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737084013987 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 bay-souls.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737045458779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737084017058 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 bay-souls.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737045461881 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737084020131 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 bay-souls.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737045464949 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737084023383 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 bay-souls.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737045468015 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737084026447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 bay-souls.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084029514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084032579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084035736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084038804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084041943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084045061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084048130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084051201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084054266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084057399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084060493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084063570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084066638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084069762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084072836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084075918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084079116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084082188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084085250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084088312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084091366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084094432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084097516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084100751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084103829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084106898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084110163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084113219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084116274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084119345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084122421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084125548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084128801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084131869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084134931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084138005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084141064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084144128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084147190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084150273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084153355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084156415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084159484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084162547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084165634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084168710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084171770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084174829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084177887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084180951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084184032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084187102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084190176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084193297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084196463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084199518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084202598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084205670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084208792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084212076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084215195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084218248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084221327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084224389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084227553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084230610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084233675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084236738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084239799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084242869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084246158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084249246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084252336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084255450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
+deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737084258521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+bay-souls.gl.joinmc.link => 147.185.221.25:15940 (minecraft-java)
 deals-engine.gl.at.ply.gg:1541 => 127.0.0.1:1541 (proto: Udp, port count: 1)
